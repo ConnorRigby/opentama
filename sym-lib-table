@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MCU_Espressif_S3")(type "KiCad")(uri "${KIPRJMOD}/library/MCU_Espressif_S3.kicad_sym")(options "")(descr ""))
+)
